@@ -15,7 +15,6 @@ const scrollSuave = new ScrollSuave('[data-menu="suave"] a[href^="#"]');
 scrollSuave.init();
 
 
-initTabNav();
 initAccordion();
 initAnimacaoScroll();
 initModal();
@@ -25,3 +24,4 @@ initMenuMobile();
 initFuncionamento();
 initFetchAnimais();
 initFetchBitcoin();
+initTabNav();
