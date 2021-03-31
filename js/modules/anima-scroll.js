@@ -44,4 +44,3 @@ export default class AnimaScroll {
       window.removeEventListener("scroll", this.checkDistance);
     }
 }
-
