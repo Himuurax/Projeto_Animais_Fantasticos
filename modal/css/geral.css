@@ -65,6 +65,7 @@ body {
     margin-bottom:4rem;
 }
 
+
 .titulo {
     font-family: Georgia;
     font-size: 6rem;
@@ -73,7 +74,6 @@ body {
     margin-bottom: 1rem;
     grid-column: 1 / 4;
 }
-
 
 .animais h2 {
     font-family: monospace;
